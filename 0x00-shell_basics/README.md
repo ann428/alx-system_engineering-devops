@@ -1,1 +1,1 @@
-display contents of the directory
+task 6
