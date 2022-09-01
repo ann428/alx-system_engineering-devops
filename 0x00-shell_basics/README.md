@@ -1,1 +1,1 @@
-shell basics
+display contents of the directory
