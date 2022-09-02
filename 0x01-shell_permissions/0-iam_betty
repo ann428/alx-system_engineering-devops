@@ -1,2 +1,3 @@
 #!/bin/bash
-\nsu betty
+su betty
+why
