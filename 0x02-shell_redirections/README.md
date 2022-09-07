@@ -1,1 +1,1 @@
-task 1
+Display the content of the /etc/passwd file
