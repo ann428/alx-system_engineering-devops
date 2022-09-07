@@ -1,1 +1,1 @@
-Write a script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it
+Create a script that removes all letters c and C from input
