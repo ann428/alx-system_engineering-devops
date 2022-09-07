@@ -1,1 +1,2 @@
-o -e #!/bin/bash\ntr "Ac" "Ze"
+#!/bin/bash
+o tr "Ac" "Ze" 
